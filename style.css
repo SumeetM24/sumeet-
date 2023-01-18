@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  display:grid;
+grid-template-columns:300px;}
+#content{
+  background-color:white;
+  justify-content:center;
+  margin:50px 50px 50px 50px;
+  border-radius:10px;
+
+
+}
+
+.img{display:grid;
+    }
+#pic{justify-content:center;  
+     padding:40px;
+     border-radius:110px;
+     border-collapse: collapse;}
+#par{
+  text-align:center;
+font-size:20px;
+
+margin-top:-50px;
+margin-left:20px;
+margin-right:20px;}
+#smt{text-align:center;
+     margin-left:29px;
+margin-right:29px;
+     margin-top:-20px;
+     font-size:13px;
+     color:grey;
+  
+}
